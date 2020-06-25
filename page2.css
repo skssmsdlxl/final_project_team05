@@ -1,0 +1,30 @@
+ .login_name{
+  width: 204px;
+  height: 54px;
+  font-family: SegoeUI;
+  font-size: 40px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+.first_box {
+  width: 244px;
+  height: 244px;
+  background-color: #ffffff;
+}
+
+.down_box {
+  width: 244px;
+  height: 133px;
+  background-color: #ffffff;
+}
+
+.join_button {
+  width: 423.4px;
+  height: 98.8px;
+  background-color: #e1117f;
+}

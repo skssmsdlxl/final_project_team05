@@ -1,0 +1,24 @@
+.box_1 {
+  width: 244px;
+  height: 244px;
+  background-color: #ffffff;
+}
+.title  {
+  width: 1920px;
+  height: 125.3px;
+  border: solid 1px #707070;
+  background-color: #ffffff;
+}
+.id_space {
+  width: 345px;
+  height: 66px;
+  border-radius: 30px;
+  border: solid 1px #707070;
+  background-color: #ffffff;
+}
+.start_button {
+  width: 533px;
+  height: 103px;
+  border-radius: 89px;
+  background-color: #e1117f;
+}

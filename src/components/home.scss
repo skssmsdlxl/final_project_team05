@@ -1,0 +1,43 @@
+.row {
+  margin-top: 20px;
+  height: 30vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title  {
+  width: 100vw;
+  border: solid 1px #9b8e8e;
+  background-color: #ffffff;
+  color: #707070;
+  padding: 2vh 0;
+  text-align: center;
+  font-size: 13vh;
+  font-family: SegoeUI;
+
+}
+
+
+
+.start_button {
+  width: 35vw;
+  height: 15vh;
+  border-radius: 10vh;
+  background-color: #e1117f;
+  border-color: transparent;
+  font-size: 10vh;
+  display: block;
+  margin-top: 10vh;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-size: 40px;
+  color: white;
+  font-family: SegoeUI;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+}

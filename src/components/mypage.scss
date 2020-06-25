@@ -1,0 +1,107 @@
+.image-container {
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  background-color: #ffffff;
+}
+
+.mypage{
+  position: relative;
+
+  @media (max-width: 800px) {
+    padding-top: 100px;
+  }
+}
+
+#icon-button-file {
+  // display: none;
+}
+
+#backIcon {
+  position: absolute;
+  left: 10px;
+  top: 20px;
+}
+
+#cameraIcon {
+  position: absolute;
+  left: 60px;
+  top: 10px;
+}
+
+.previewText {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  font-size: 30px;
+  text-align: center;
+  font-family: SegoeUI;
+}
+
+.buttomForUpload2{
+  width: 533px;
+  height: 103px;
+  border-radius: 89px;
+  background-color: #e1117f;
+  border: transparent;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  font-size: 40px;
+  color: white;
+  font-family: SegoeUI;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+}
+.camera {
+  width: 50px;
+  height: 50px;
+}
+
+.scoreboard {
+  // margin-left: auto;
+  // margin-right: auto;
+  // display: block;
+  text-align: center;
+}
+
+.score {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.nickname_space {
+  margin-top: 20px;
+  width: 345px;
+  height: 66px;
+  border-radius: 30px;
+  border: solid 1px #707070;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+}
+
+.buttomForUpload{
+  width: 533px;
+  height: 103px;
+  border-radius: 89px;
+  background-color: #e1117f;
+  border: transparent;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  font-size: 40px;
+  color: white;
+  font-family: SegoeUI;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+}
